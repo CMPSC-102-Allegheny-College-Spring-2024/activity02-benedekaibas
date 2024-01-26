@@ -46,7 +46,7 @@ def seventhQuestion():
         print("1/3 + 1/3 + 1/3 is equal 1")
     else:
         print("1/3 + 1/3 + 1/3 is not equal 1")
-
+  
 
 if __name__ == "__main__":
     firstQuestion()
